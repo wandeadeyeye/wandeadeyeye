@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wandeadeyeye
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning APIs
-- 💞️ I’m looking to collaborate on building machine learning algorithms
+- 🌱 I’m currently contributing to open source software here on github
+- 💞️ I’m looking to collaborate on building machine learning algorithms and contribute to opensource project
 - 📫 How to reach me on twitter @wandeadeyeye
 
 <!---
