@@ -6,7 +6,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://medium.com/@wandeadeyeye">
-   <img align="left" alt="medium" src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white" />
+   <img align="left" alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <!-- <a href="https://www.youtube.com/c/TechTalksWithSantosh">
@@ -28,9 +28,13 @@
 - 💞️ I’m looking to collaborate on building and contribute to opensource project
 - 📫 How to reach me on twitter: [@wandeadeyeye](https://twitter.com/wandeadeyeye)
 
-![Wande Adeyeye Github Stats](https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=radical)
+[![Wande's GitHub stats](https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/wandeadeyeye/github-readme-stats)
 
-![Wande Adeyeye Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wandeadeyeye&layout=compact&theme=radical)
+<!-- ![Wande Adeyeye Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wandeadeyeye&layout=compact&theme=radical) -->
+
+[![Wande's Language Stats](https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wande's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wandeadeyeye)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wande's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wandeadeyeye&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
