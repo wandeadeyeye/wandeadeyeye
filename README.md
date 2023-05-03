@@ -1,4 +1,4 @@
- <h3> Hi, I’m [Wande Adeyeye!](https://medium.com/@wandeadeyeye) 👋 <h3/>
+ ### Hi, I’m [Wande Adeyeye!](https://medium.com/@wandeadeyeye) 👋
 
 <p align="center">
 
@@ -37,7 +37,7 @@
 
 <img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
 
-<br> <br>
+<br>
 
 <img align="center" alt="Wande's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
 
