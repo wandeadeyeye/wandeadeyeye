@@ -1,6 +1,7 @@
  ### Hi, I’m [Wande Adeyeye!](https://medium.com/@wandeadeyeye) 👋
 
 <p>
+
 <a href="https://twitter.com/wandeadeyeye">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -23,22 +24,33 @@
 
 <p/>
 
-- 👀 I’m interested in Learning and Application
-- 🌱 I’m currently contributing learning Frontend and contributing to open source software here on github
-- 💞️ I’m looking to collaborate on building and contribute to opensource project
+- 👀 I’m interested in Tech and a Life-Long Learner
+- 🌱 I’m currently learning FrontEnd Web Development and contributing to open source software here on github
+- 💞️ I’m looking to collaborate on building cool stuff and contribute to opensource project
 - 📫 How to reach me on twitter: [@wandeadeyeye](https://twitter.com/wandeadeyeye)
 
-<br> <br>
+<br>
 
-<img align="left" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&theme=transparent&include_all_commits=true&theme=radical"/>
+<img align="left" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
 
-<!-- [![Wande's GitHub stats](https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/wandeadeyeye/github-readme-stats)
+<br>
 
-[![Wande's Language Stats](https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Wande's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
 
-[![Wande's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wandeadeyeye)](https://github.com/anuraghazra/github-readme-stats) -->
+<br>
 
 [![Wande's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wandeadeyeye&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+# Recent GitHub Activity
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#581](https://github.com/estruyf/vscode-front-matter/pull/581) in [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
+2. 🗣 Commented on [#34](https://github.com/angular-extensions/svg-icons-builder/issues/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
+3. 💪 Opened PR [#34](https://github.com/angular-extensions/svg-icons-builder/pull/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
+4. ❗️ Closed issue [#314](https://github.com/uiuniversal/ngu-carousel/issues/314) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+5. ❗️ Closed issue [#317](https://github.com/uiuniversal/ngu-carousel/issues/317) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
+<!--END_SECTION:activity-->
 
 <!---
 wandeadeyeye/wandeadeyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
