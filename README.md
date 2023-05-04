@@ -31,15 +31,11 @@
 
 <br>
 
-<img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=github-compact"/>
+<img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wandeadeyeye&theme=github-compact)](https://git.io/streak-stats)
-
-<br>
-
-<img align="center" alt="Wande's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=github-compact"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wandeadeyeye&theme=transparent)](https://git.io/streak-stats)
 
 <br>
 
@@ -47,7 +43,7 @@
 
 <br>
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+![snake gif](https://github.com/wandeadeyeye/wandeadeyeye/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 wandeadeyeye/wandeadeyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
