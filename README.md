@@ -1,4 +1,8 @@
+ <p align="center">
+ 
  ### Hi, I’m [Wande Adeyeye!](https://medium.com/@wandeadeyeye) 👋
+
+ <p/>
 
 <p align="center">
 
@@ -9,14 +13,6 @@
 <a href="https://medium.com/@wandeadeyeye">
    <img alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-
-<!-- <a href="https://www.youtube.com/c/TechTalksWithSantosh">
-   <img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://discord.gg/m6cNkVfXrQ">
-   <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp; -->
 
 <a href="https://www.linkedin.com/in/wandeadeyeye/">
    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,11 +31,15 @@
 
 <br>
 
-<img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
+<img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=github-compact"/>
 
 <br>
 
-<img align="center" alt="Wande's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wandeadeyeye&theme=github-compact)](https://git.io/streak-stats)
+
+<br>
+
+<img align="center" alt="Wande's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=github-compact"/>
 
 <br>
 
@@ -47,19 +47,7 @@
 
 <br>
 
-<!-- # Recent GitHub Activity -->
-<!--START_SECTION:activity-->
-<!-- <p align="center">
-
-1. 💪 Opened PR [#581](https://github.com/estruyf/vscode-front-matter/pull/581) in [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
-2. 🗣 Commented on [#34](https://github.com/angular-extensions/svg-icons-builder/issues/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
-3. 💪 Opened PR [#34](https://github.com/angular-extensions/svg-icons-builder/pull/34) in [angular-extensions/svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder)
-4. ❗️ Closed issue [#314](https://github.com/uiuniversal/ngu-carousel/issues/314) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-5. ❗️ Closed issue [#317](https://github.com/uiuniversal/ngu-carousel/issues/317) in [uiuniversal/ngu-carousel](https://github.com/uiuniversal/ngu-carousel)
-
-<p/> -->
-
-<!--END_SECTION:activity-->
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
 <!---
 wandeadeyeye/wandeadeyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
