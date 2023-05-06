@@ -1,17 +1,5 @@
-<h2 align="center">Hello 👋, I'm Wande Adeyeye</h2>
+<h2 align="center">Hello, I'm Wande Adeyeye 👋</h2>
 <h3 align="center">Frontend Developer</h3>
-
-<p align="center">
-
-- 👀 I’m interested in Tech and a Life-Long Learner
-- 🌱 I’m currently learning FrontEnd Web Development and contributing to open source software here on github
-- 💞️ I’m looking to collaborate on building cool stuff and contribute to opensource project
-- 📫 How to reach me on twitter: [@wandeadeyeye](https://twitter.com/wandeadeyeye)
-
-<p/>
-
----
-<h3>Connect with me 🌐</h3>
 <p align="center">
 
 <a href="https://twitter.com/wandeadeyeye">
@@ -26,6 +14,10 @@
    <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=LINKEDIN&color=AFD3E2&style=for-the-badge&logo=linkedin"/>
 </a>
 
+<p/>
+
+<p align="left">
+I'm Wande and am glad you're here, I'm an avid reader, animal lover, and aspiring writer. I graduated with a degree in Computer Science and currently learning FrontEnd web and Mobile development. I'm interested in contributing to open source software here on GitHub and eager to learn new technologies and applications. Let's connect and do something cool
 <p/>
 
 ---
