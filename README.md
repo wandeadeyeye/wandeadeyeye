@@ -7,15 +7,15 @@
 <p align="center">
 
 <a href="https://twitter.com/wandeadeyeye">
-   <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
+   <img alt="twitter" src="https://img.shields.io/badge/Twitter-AFD3E2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 <a href="https://medium.com/@wandeadeyeye">
-   <img alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>&nbsp;&nbsp;
+   <img alt="medium" src="https://img.shields.io/badge/medium-AFD3E2?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 <a href="https://www.linkedin.com/in/wandeadeyeye/">
-   <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-AFD3E2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <p/>
@@ -29,6 +29,18 @@
 
 <p/>
 
+
+<h3>🛠️ Tools and Technologies 🌐</h3>
+    <p align="center">
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=PYTHON&color=AFD3E2&style=flat-square&logo=python"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=HTML5&color=AFD3E2&style=flat-square&logo=html5"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=CSS3&color=AFD3E2&logoColor=blue&style=flat-square&logo=css3"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=BOOTSTRAP&color=AFD3E2&logoColor=blue&style=flat-square&logo=bootstrap"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=MYSQL&color=AFD3E2&logoColor=gold&style=flat-square&logo=mysql"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=VS CODE&color=AFD3E2&logoColor=blue&style=flat-square&logo=visual studio code"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=GIT&color=AFD3E2&style=flat-square&logo=git"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=GITHUB&color=AFD3E2&style=flat-square&logo=github"/>
+    </p>
 <br>
 
 <img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
@@ -44,10 +56,6 @@
 <br>
 
 ![snake gif](https://github.com/wandeadeyeye/wandeadeyeye/blob/output/github-contribution-grid-snake.svg)
-
-### Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <!---
 wandeadeyeye/wandeadeyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
