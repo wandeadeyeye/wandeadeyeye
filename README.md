@@ -1,24 +1,5 @@
- <p align="center">
- 
- ### Hi, I’m [Wande Adeyeye!](https://medium.com/@wandeadeyeye) 👋
-
- <p/>
-
-<p align="center">
-
-<a href="https://twitter.com/wandeadeyeye">
-   <img alt="twitter" src="https://img.shields.io/badge/Twitter-AFD3E2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@wandeadeyeye">
-   <img alt="medium" src="https://img.shields.io/badge/medium-AFD3E2?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/wandeadeyeye/">
-   <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-AFD3E2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<p/>
+<h2 align="center">Hello 👋, I'm Wande Adeyeye</h2>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
 
@@ -29,8 +10,28 @@
 
 <p/>
 
+---
+<h3>Connect with me 🌐</h3>
+<p align="center">
 
-<h3>🛠️ Tools and Technologies 🌐</h3>
+<a href="https://twitter.com/wandeadeyeye">
+   <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=TWITTER&color=AFD3E2&style=for-the-badge&logo=Twitter"/>
+</a>
+
+<a href="https://medium.com/@wandeadeyeye">
+   <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=MEDIUM&color=AFD3E2&style=for-the-badge&logo=medium"/>
+</a>
+
+<a href="https://www.linkedin.com/in/wandeadeyeye/">
+   <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=LINKEDIN&color=AFD3E2&style=for-the-badge&logo=linkedin"/>
+</a>
+
+<p/>
+
+---
+
+
+<h3>Tools and Technologies 🛠️</h3>
     <p align="center">
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=PYTHON&color=AFD3E2&style=flat-square&logo=python"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=HTML5&color=AFD3E2&style=flat-square&logo=html5"/>
