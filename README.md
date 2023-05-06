@@ -25,11 +25,11 @@ I'm Wande and am glad you're here, I'm an avid reader, animal lover, and aspirin
 
 <h3>Tools and Technologies 🛠️</h3>
     <p align="center">
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=PYTHON&color=AFD3E2&style=flat-square&logo=python"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=HTML5&color=AFD3E2&style=flat-square&logo=html5"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=CSS3&color=AFD3E2&logoColor=blue&style=flat-square&logo=css3"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=BOOTSTRAP&color=AFD3E2&logoColor=blue&style=flat-square&logo=bootstrap"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=MYSQL&color=AFD3E2&logoColor=gold&style=flat-square&logo=mysql"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=PYTHON&color=AFD3E2&style=flat-square&logo=python"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=VS CODE&color=AFD3E2&logoColor=blue&style=flat-square&logo=visual studio code"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=GIT&color=AFD3E2&style=flat-square&logo=git"/>
         <img src="https://img.shields.io/static/v1?label=|&labelColor=AFD3E2&message=GITHUB&color=AFD3E2&style=flat-square&logo=github"/>
