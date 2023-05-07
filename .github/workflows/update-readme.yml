@@ -3,8 +3,8 @@ description: Updates README with the recent GitHub activity of a user
 author: jamesgeorge007
 
 inputs:
-  GH_USERNAME:
-    description: wandeadeyeye
+  GH_USERNAME: wandeadeyeye
+    description: wandeadeyeye GitHub 
     default: ${{ github.repository_owner }}
     required: false
   COMMIT_MSG:
