@@ -1,25 +1,17 @@
-name: GitHub - Activity - Readme
-description: Updates README with the recent GitHub activity of a user
-author: jamesgeorge007
+name: Update README
 
-inputs:
-  GH_USERNAME: wandeadeyeye
-    description: wandeadeyeye GitHub 
-    default: ${{ github.repository_owner }}
-    required: false
-  COMMIT_MSG:
-    description: "Commit message used while committing to the repo"
-    default: ":zap: Update README with the recent activity"
-    required: false
-  MAX_LINES:
-    description: "The maximum number of lines populated in your readme file"
-    default: 5
-    required: false
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Update every 30 minutes
+  workflow_dispatch:
 
-branding:
-  color: yellow
-  icon: activity
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
 
-runs:
-  using: node12
-  main: dist/index.js
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@v2.3.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
