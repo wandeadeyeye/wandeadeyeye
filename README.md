@@ -46,7 +46,7 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
 
 <br>
 
-[![Wande's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wandeadeyeye&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Wande's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wandeadeyeye&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
