@@ -3,15 +3,15 @@
 <p align="center">
 
 <a href="https://twitter.com/wandeadeyeye">
-   <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=TWITTER&color=379237&style=for-the-badge&logo=Twitter&logoColor=white"/>
+   <img src="https://img.shields.io/static/v1?label=&labelColor=1DA1F2&message=TWITTER&color=1DA1F2&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@wandeadeyeye">
-   <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=MEDIUM&color=379237&style=for-the-badge&logo=medium&logoColor=white"/>
+   <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=MEDIUM&color=000000&style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/wandeadeyeye/">
-   <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=LINKEDIN&color=379237&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <img src="https://img.shields.io/static/v1?label=&labelColor=0072B1&message=LINKEDIN&color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <p/>
@@ -26,15 +26,15 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
 
 <h3>Tools and Technologies 🛠️</h3>
     <p align="center">
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=HTML5&color=379237&style=flat-square&logo=html5"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=CSS3&color=379237&logoColor=blue&style=flat-square&logo=css3"/> 
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=JAVASCRIPT&color=379237&logoColor=yellow&style=flat-square&logo=javaScript"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=BOOTSTRAP&color=379237&logoColor=purple&style=flat-square&logo=bootstrap"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=MYSQL&color=379237&logoColor=gold&style=flat-square&logo=mysql"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=PYTHON&color=379237&style=flat-square&logo=python"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=VS CODE&color=379237&logoColor=blue&style=flat-square&logo=visual studio code"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=GIT&color=379237&style=flat-square&logo=git"/>
-        <img src="https://img.shields.io/static/v1?label=|&labelColor=379237&message=GITHUB&color=379237&logoColor=black&style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=F06529&message=HTML5&color=F06529&style=for-the-badge&logo=HTML5&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=264DE4&message=CSS3&color=264DE4&logoColor=blue&style=for-the-badge&logo=CSS3&logoColor=white"/> 
+        <img src="https://img.shields.io/static/v1?label=&labelColor=292826&message=JAVASCRIPT&color=292826&logoColor=yellow&style=for-the-badge&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=D9534F&message=BOOTSTRAP&color=D9534F&logoColor=292826&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=00758F&message=MYSQL&color=00758F&logoColor=white&style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=306998&message=PYTHON&color=306998&style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=0078D7&message=VS CODE&color=0078D7&logoColor=blue&style=for-the-badge&logo=visual studio code&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=E24329&message=GIT&color=E24329&style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=GITHUB&color=000000&logoColor=black&style=for-the-badge&logo=github&logoColor=white"/>
     </p>
 <br>
 
