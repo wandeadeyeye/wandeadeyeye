@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Wande Adeyeye 👋</h2>
 <h3 align="center">Frontend Developer</h3>
 <p align="center">
-
+   
 <a href="https://twitter.com/wandeadeyeye">
    <img src="https://img.shields.io/static/v1?label=&labelColor=1DA1F2&message=TWITTER&color=1DA1F2&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
@@ -36,6 +36,10 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
         <img src="https://img.shields.io/static/v1?label=&labelColor=E24329&message=GIT&color=E24329&style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=GITHUB&color=000000&logoColor=black&style=for-the-badge&logo=github&logoColor=white"/>
     </p>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandeadeyeye&theme=github-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
