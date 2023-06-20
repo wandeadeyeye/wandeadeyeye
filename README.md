@@ -29,8 +29,8 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
         <img src="https://img.shields.io/static/v1?label=&labelColor=F06529&message=HTML5&color=F06529&style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=264DE4&message=CSS3&color=264DE4&logoColor=blue&style=for-the-badge&logo=CSS3&logoColor=white"/> 
         <img src="https://img.shields.io/static/v1?label=&labelColor=292826&message=JAVASCRIPT&color=292826&logoColor=yellow&style=for-the-badge&logo=javascript&logoColor=white"/>
-        <img src="https://img.shields.io/static/v1?label=&labelColor=D9534F&message=BOOTSTRAP&color=D9534F&logoColor=292826&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/static/v1?label=&labelColor=00758F&message=MYSQL&color=00758F&logoColor=white&style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=563d7c&message=BOOTSTRAP&color=563d7c&logoColor=fffff&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=F29111&message=MYSQL&color=F29111&logoColor=white&style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=306998&message=PYTHON&color=306998&style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=0078D7&message=VS CODE&color=0078D7&logoColor=blue&style=for-the-badge&logo=visual studio code&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=E24329&message=GIT&color=E24329&style=for-the-badge&logo=git&logoColor=white"/>
