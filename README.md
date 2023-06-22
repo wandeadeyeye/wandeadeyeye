@@ -38,10 +38,6 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
     </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandeadeyeye&theme=github-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 <img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
 
 <br>
