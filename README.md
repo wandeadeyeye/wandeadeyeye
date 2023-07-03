@@ -29,24 +29,30 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
         <img src="https://img.shields.io/static/v1?label=&labelColor=F06529&message=HTML5&color=F06529&style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=264DE4&message=CSS3&color=264DE4&logoColor=blue&style=for-the-badge&logo=CSS3&logoColor=white"/> 
         <img src="https://img.shields.io/static/v1?label=&labelColor=292826&message=JAVASCRIPT&color=292826&logoColor=yellow&style=for-the-badge&logo=javascript&logoColor=white"/>
-        <img src="https://img.shields.io/static/v1?label=&labelColor=563d7c&message=BOOTSTRAP&color=563d7c&logoColor=fffff&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=6c757d&message=BOOTSTRAP&color=6c757d&logoColor=fffff&style=for-the-badge&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=F29111&message=MYSQL&color=F29111&logoColor=white&style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=306998&message=PYTHON&color=306998&style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=0078D7&message=VS CODE&color=0078D7&logoColor=blue&style=for-the-badge&logo=visual studio code&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=E24329&message=GIT&color=E24329&style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=GITHUB&color=000000&logoColor=black&style=for-the-badge&logo=github&logoColor=white"/>
     </p>
+
+<hr>
 <br>
 
-<img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=transparent"/>
+<img align="center" alt="Wande's Top Lang" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wandeadeyeye&layout=compact&langs_count=16&theme=radical"/>
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wandeadeyeye&theme=transparent)](https://git.io/streak-stats)
+<img align="center" alt="Wande's Githug Stats" src="https://github-readme-stats.vercel.app/api?username=wandeadeyeye&show_icons=true&include_all_commits=true&theme=radical"/>
 
 <br>
 
-[![Wande's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wandeadeyeye&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wandeadeyeye&theme=radical)](https://git.io/streak-stats)
+
+<br>
+
+[![Wande's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wandeadeyeye&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
