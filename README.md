@@ -6,6 +6,7 @@
    <img src="https://img.shields.io/static/v1?label=&labelColor=1DA1F2&message=TWITTER&color=1DA1F2&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
+
 <a href="https://medium.com/@wandeadeyeye">
    <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=MEDIUM&color=000000&style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
@@ -15,7 +16,6 @@
 </a>
 
 <p/>
-
 
 I'm Wande and am glad you're here, I'm an avid reader, and aspiring writer. I graduated with a degree in Computer Science and currently learning FrontEnd web and Mobile development. I'm interested in contributing to open source software here on GitHub and eager to learn new technologies and applications. Looking to collaborate on innovative projects Let's connect and do something cool
 
