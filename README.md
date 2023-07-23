@@ -36,7 +36,7 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
     </p>
 
 <hr>
-<h3>GitHub Stats Graphs 📈</h3>
+<h3>GitHub Activities Stats 📈</h3>
 
 <img align="center" alt="Wande's Top Lang" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wandeadeyeye&layout=compact&langs_count=16&theme=radical"/>
 
@@ -55,8 +55,8 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
 
 <br>
 
-![snake gif](https://github.com/wandeadeyeye/wandeadeyeye/blob/output/github-contribution-grid-snake.svg)
-
+<!--- ![snake gif](https://github.com/wandeadeyeye/wandeadeyeye/blob/output/github-contribution-grid-snake.svg)
+--->
 
 <!---
 wandeadeyeye/wandeadeyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
