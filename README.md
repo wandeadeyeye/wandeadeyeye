@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I'm Wande Adeyeye 👋</h2>
-<h3 align="center">Frontend Developer</h3>
+<!--- <h3 align="center">Frontend Developer</h3>--->
 <p align="center">
    
 <a href="https://twitter.com/wandeadeyeye">
