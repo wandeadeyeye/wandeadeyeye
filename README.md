@@ -16,7 +16,7 @@
 
 <p/>
 
-I'm Wande and am glad you're here, I'm an avid reader, and aspiring writer. I graduated with a degree in Computer Science and currently learning FrontEnd web and Mobile development. I'm interested in contributing to open source software here on GitHub and eager to learn new technologies and applications. Looking to collaborate on innovative projects Let's connect and do something cool
+I'm Wande and am glad you're here, I'm a Data Scientist, an avid reader, and aspiring writer. I graduated with a degree in Computer Science and currently learning FrontEnd web and Mobile development. I'm interested in contributing to open source software here on GitHub and eager to learn new technologies and applications. Looking to collaborate on innovative projects Let's connect and do something cool
 
 On my free time, I enjoy a good movie, TV show or music, update myself on what's happening around the world in general and politics, spend quality time with family and connect with friends. Hopefully can start drinking more water and a regular workout routine soon ⚡
 
@@ -55,8 +55,7 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
 
 <br>
 
-<!--- ![snake gif](https://github.com/wandeadeyeye/wandeadeyeye/blob/output/github-contribution-grid-snake.svg)
---->
+[snake gif](https://github.com/wandeadeyeye/wandeadeyeye/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 wandeadeyeye/wandeadeyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
