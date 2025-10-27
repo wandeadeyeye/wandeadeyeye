@@ -55,7 +55,9 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
 
 <br>
 
-[snake gif](https://github.com/wandeadeyeye/wandeadeyeye/blob/output/github-contribution-grid-snake.svg)
+<!---
+put the snake eating my activities here
+--->
 
 <!---
 wandeadeyeye/wandeadeyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
