@@ -55,10 +55,10 @@ On my free time, I enjoy a good movie, TV show or music, update myself on what's
 
 <br>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> -->
 
 <!---
 wandeadeyeye/wandeadeyeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
